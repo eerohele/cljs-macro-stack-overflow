@@ -11,4 +11,4 @@
            (doseq [d# (range 4)]
              (doseq [e# (range 5)]
                (doseq [f# (range 6)]
-                 (println "hello" a# b# c# d# e# f# g# h#)))))))))
+                 (println "hello" a# b# c# d# e# f#)))))))))
